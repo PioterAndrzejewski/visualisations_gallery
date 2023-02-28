@@ -8,10 +8,14 @@
 
 ![image](https://user-images.githubusercontent.com/109315248/219902695-15f1a843-935d-47da-b1fa-41018661f55f.png)
 
-## Is this a project?
+## About project
 
-Not really. It's just a simple image gallery made for the purpose of showing off some visualisations in a CV.
-Needs to be public to show it on gh pages :) 
+Simple image gallery made for the purpose of showing off some visualisations in a CV.
+I sincerely encourage you to see the pinned projects:
+
+https://github.com/PioterAndrzejewski/team_manager_frontend
+https://github.com/PioterAndrzejewski/project_configurator_frontend
+
 
 ### Built With
 
